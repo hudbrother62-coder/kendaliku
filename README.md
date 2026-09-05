@@ -14,6 +14,8 @@ Mobile-first business control center for WhatsApp AI sales, products, payment ap
 - Gemini Flash / Flash-Lite routing rules.
 - Vercel health and n8n webhook endpoints.
 
+The dedicated Supabase project is `jhlgihzrtutsctzwcdqt` in `ap-southeast-1`; it is separate from Kepsek AI and Disiplin Pro.
+
 ## Integration contract
 
 `POST /api/n8n-webhook` accepts events such as:
