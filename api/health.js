@@ -1,0 +1,1 @@
+export default function handler(_req,res){res.status(200).json({service:'KENDALIKU',status:'ok',version:'0.1.0',integrations:{n8n:'ready',supabase:'pending_configuration',whatsapp:'pending_configuration'}})}
